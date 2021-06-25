@@ -1,0 +1,6 @@
+First, when a link is search the hostname gets converted by the local 
+dns server into a 4 charatcher ip address. Each link has an endpoint looking for a 
+specific server and params or queries searching for a specific request. Once the root
+dns has the answer, it is sent back to the browser. Each protocol will grant a public less secure
+access and the https, if your looking for a secure protocol, is what you want to see on your return. 
+Every computer has its own ip address or localhost, 127.0.0.1.
